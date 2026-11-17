@@ -1,0 +1,4 @@
+_failed*.txt
+_missing.txt
+*.ps1
+_original/
